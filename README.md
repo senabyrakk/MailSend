@@ -1,3 +1,3 @@
 # MailSend
 
-.Net 5.0 ile mail gönderim işlemi.
+.Net 5.0 ile mail gönderim.
